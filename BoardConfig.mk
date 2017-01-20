@@ -21,3 +21,4 @@ TARGET_BOARD_INFO_FILE := device/xiaomi/ferrari/board-info.txt
 
 # inherit from the proprietary version
 -include vendor/xiaomi/ferrari/BoardConfigVendor.mk
+TW_THEME := portrait_hdpi
